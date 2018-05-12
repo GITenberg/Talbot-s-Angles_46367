@@ -1,0 +1,32 @@
+_repo: Talbot-s-Angles_46367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46367-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Maryland -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Sisters-in-law -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mate selection -- Fiction'
+title: Talbot's Angles
+url: http://www.gutenberg.org/ebooks/46367
